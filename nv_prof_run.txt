@@ -1,0 +1,1 @@
+nsys profile --trace=cuda ./V_Player /home/johny_kannan/Videos/cam-maths.mp4 0
